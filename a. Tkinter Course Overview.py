@@ -1,4 +1,4 @@
-Description: The list below describes the order in which the course will be conducted in.
+#Description: The list below describes the order in which the course will be conducted in.
 
 # 1. What is Tkinter?
 # 2. Positioning with Tkinter's Grid System
