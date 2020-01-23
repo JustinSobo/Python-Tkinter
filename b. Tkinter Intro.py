@@ -1,4 +1,4 @@
-From tkinter import *
+from tkinter import *
 
 #Initial Window that program runs in.
 root = Tk()
